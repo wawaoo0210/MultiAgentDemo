@@ -1,0 +1,14 @@
+.env
+
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+miniconda/
+.conda/
+
+.DS_Store
+
+node_modules/
+package-lock.json
